@@ -1,0 +1,14 @@
+{
+  "name": "qbot",
+  "version": "1.0.0",
+  "description": "First bot for use in slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nfactorial",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^2.2.1"
+  }
+}

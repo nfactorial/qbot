@@ -1,0 +1,11 @@
+#
+node_modules
+
+# Mac cache information
+.DS_Store
+
+# Token is not version controlled
+slack_token.json
+
+# WebStorm IDE settings are local only
+.idea
